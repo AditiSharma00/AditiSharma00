@@ -6,9 +6,14 @@
  <br/></h2>
  
  <h3 align="center">A passionate full-stack web developer from India who loves to build amazing projects and work in a team.</h3>
-<h3 align="center">I dream to get recognized globally by something that I can do for my society.You can also visit <a href="">
+<h3 align="center">I dream to get recognized globally by something that I can do for my society.You can also visit
+<a href="">
+<a href="https://drive.google.com/file/d/12t6pRIbzADGCc3Q6tmWBqbwERgEK7UDV/view?usp=sharing">
+
   <br />  <br />  
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="" /></h3>
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="" />
+        <img align="center" src="https://img.shields.io/badge/Resume-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://drive.google.com/file/d/12t6pRIbzADGCc3Q6tmWBqbwERgEK7UDV/view?usp=sharing" />
+        </h3>
 
 <!----------------------------------- Profile View Section ------------------------------------>
 
