@@ -4,14 +4,11 @@
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures+And+Algorithms"></a>
 </p>
  <br/></h2>
- 
  <h3 align="center">A passionate full-stack web developer from India who loves to build amazing projects and work in a team.</h3>
 <h3 align="center">I dream to get recognized globally by something that I can do for my society.You can also visit
-
 <a href="https://aditisharma00.github.io/">
-
-  <br />  <br />  
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://aditisharma00.github.io/" />
+ <br />  <br />  
+ <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://aditisharma00.github.io/" />
         
   </h3>
 
@@ -63,7 +60,7 @@
     <a href="https://twitter.com/Aditi89951147">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/Aditi89951147" />
     </a>
-    <a href="">
+    <a href="https://aditisharma00.github.io/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="portfolio" />
   
 </p>
