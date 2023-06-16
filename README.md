@@ -1,11 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Aditi Sharma</h1>
-<h2><p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures+And+Algorithms"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center" color: "red">
+ <a>
+ <a>
+          <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=500&color=3CE0F7&vCenter=true&width=600&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure+and+Algorithm;MERN+Stack+Web+Developer+From+India;Full+Stack+Web+Developer+From+India"></a>
+ </a>
 </p>
- <br/></h2>
- <h3 align="center">A passionate full-stack web developer from India who loves to build amazing projects and work in a team.</h3>
-<h3 align="center">I dream to get recognized globally by something that I can do for my society.You can also visit
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+ <h3 align="centre">A passionate full-stack web developer from India who loves to build amazing projects and work in a team.</h3>
+<h3 align="center">I dream of getting recognized globally for something I can do for society. You can also visit
 <a href="https://aditisharma00.github.io/">
  <br />  <br />  
  <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://aditisharma00.github.io/" />
@@ -25,8 +30,6 @@
 <br>
 
 
-
-<img src="https://imgs.search.brave.com/GIZVpntD8nBghn1rIX7k2fuiuNRVav8AVZ88d-MPnvg/rs:fit:1200:675:1/g:ce/aHR0cHM6Ly93d3cu/YmFjYW5jeXRlY2hu/b2xvZ3kuY29tL2lt/Zy9tZXJuLWltZ3Mv/YmFubmVyMS5qcGc"/>
 <h2><i>Tech Stack</i></h2>
 
 <p>
@@ -69,11 +72,31 @@
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 
 <h2><i>My GitHub Stats</i></h2>
-
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AditiSharma00&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="AditiSharma00" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiSharma00&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="AditiSharma00" height="139" />
-</p>
-<br>
-
-
+<div>
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AditiSharma00&theme=2077" width="46%" />
+  <br/>
+  <br/>
+    <br/>
+  <br/>
+<img align="right" src="https://streak-stats.demolab.com/?user=AditiSharma00&_border=true&theme=dark&hide_border=true&theme=react" width="46%" />
+</div>
+<br/>
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div>
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AditiSharma00&theme=2077" width="45%" />
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AditiSharma00&theme=2077" width="45%" />
+</div>
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">    
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AditiSharma00&theme=2077" style="height: 300px"  />                                 </div>                                                      
+                                                                             
+                                                                                                                             
+ <h2 align="left">⚡Activity Graph:</h2>
+   
+  
+  <div align="center">    
+<img src="https://github-profile-trophy.vercel.app/?username=AditiSharma00&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"  />                                 </div>  
+        
+ <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://jusmarktech.com/public/a/images/pages/web_development.gif"> 
